@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SamplesResources/Scenes/UserDefinedReady.unity
+  isLoaded: 1
+  isActive: 1
